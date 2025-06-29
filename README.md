@@ -1,4 +1,4 @@
-# 🎮 Brick Breaker Game with Gyroscope Control
+# 🎮 game_1
 
 A modern Flutter-based brick breaker game built with the Flame game engine that features innovative gyroscope control via WebSocket communication over WiFi.
 
